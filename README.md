@@ -4,6 +4,7 @@ RoberTweet-Large es un modelo capaz de clasificar tweets en Inglés a 3 niveles:
 
 
 -->Descargar el modelo ".pt" que se encuentra almacenado en este enlace --> https://drive.google.com/drive/folders/1zJlPoYebKj4lps99X_eXVq1lVjD3Sguq?usp=sharing 
+
 -->Descargar el archivo.ipynb de este repositorio que contiene el codigo necesario para realizar predicciones con el modelo y abrirlo con google colaboratory.
 
 Es necesario modificar los siguientes parametros teniendo en cuenta lo siguiente:
